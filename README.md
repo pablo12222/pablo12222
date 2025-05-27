@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Poul.
+- 👋 Hi, I’m Paul.
 - 👨🏻‍🎓 Computer science student
 - 🔮 I like to expand my horizons and create interesting projects
 
